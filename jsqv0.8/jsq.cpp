@@ -8,7 +8,9 @@ int main() {
 	int c,d,e,f;
 	double a,b,g;
 	string flag;
+	#ifndef _WIN32
 	system("COLOR 94");
+	#endif
 	cout<<"\\\\@@*********************************************@@//\n";
 	cout<<"  \\@*********************************************@/\n";
 	cout<<"                   牛人牌普通计算器                  \n";
@@ -34,7 +36,7 @@ int main() {
 	cout<<"//@@*************************************************@@\\\\\n";
 	cout<<"请输入编号：";
 	cout<<"Hi！我是WCR，1.1版来了！";
-	cout<<"https://github.com/jsq1.1/";
+	cout<<"https://github.com/ds1302zs/jsqv0.8/";
 	while(cin>>flag) {
 		if (flag=="0") {
 			cout<<"Good Bye!\n";
