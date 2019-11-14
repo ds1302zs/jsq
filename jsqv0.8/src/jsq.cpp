@@ -118,7 +118,7 @@ int main() {
 		}
 		if (flag=="15") {
 			cout<<"Author: WCR"<<endl;
-			cout<<"Version 1.1";
+			cout<<"Version 0.8";
 		}
 		cout<<"\n请输入编号：";
 	}
