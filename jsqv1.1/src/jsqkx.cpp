@@ -42,14 +42,14 @@ int main() {
 	cout<<"                     22：关于                            \n";
 	cout<<"//@@*************************************************@@\\\n";
 	cout<<"Hi！我是WCR，1.1版来了！"<<endl;
-	cout<<"请输入编号："<<endl;
 	cout<<"https://github.com/ds1302zs/jsqv1.1/"<<endl;
+	cout<<"请输入编号："<<endl;
 	while(cin>>flag) {
 		if (flag=="0") {
 			cout<<"Good Bye!\n";
 			system("pause");
 			break;
-		} else if (flag!="0" && flag!="1" && flag!="2" && flag!="3" && flag!="4" && flag!="5" && flag!="6" && flag!="7" && flag!="8" && flag!="9" && flag!="10" && flag!="11" && flag!="12" && flag!="13" && flag!="14" && flag!="15") {
+		} else if (flag!="0" && flag!="1" && flag!="2" && flag!="3" && flag!="4" && flag!="5" && flag!="6" && flag!="7" && flag!="8" && flag!="9" && flag!="10" && flag!="11" && flag!="12" && flag!="13" && flag!="14" && flag!="15" && flag!="16" && flag!="17" && flag!="18" && flag!="19" && flag!="20" && flag!="21" && flag!="22") {
 			cout<<"0x0000002B calc.exe Serious error, Please try again.";
 		}
 		if (flag=="1") {
