@@ -34,9 +34,9 @@ int main() {
 	cout<<"  /@*************************************************@\\\n";
 	cout<<"                     15：关于                        \n";
 	cout<<"//@@*************************************************@@\\\\\n";
-	cout<<"请输入编号：";
-	cout<<"Hi！我是WCR，1.1版来了！";
-	cout<<"https://github.com/ds1302zs/jsqv0.8/";
+	cout<<"Hi！我是WCR，1.1版来了！"<<endl;
+	cout<<"https://github.com/ds1302zs/jsqv0.8/"<<endl;
+	cout<<"请输入编号："<<endl;
 	while(cin>>flag) {
 		if (flag=="0") {
 			cout<<"Good Bye!\n";
