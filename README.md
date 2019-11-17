@@ -30,6 +30,8 @@
 
 + 吐槽
 
+```
+
 #include <sbiolib>//SB标准输入输出
 
 using namespace std;
@@ -43,6 +45,9 @@ int main(){
   return 0;
   
 }
+
+```
+
 + 关于
 
 Author: WCR
