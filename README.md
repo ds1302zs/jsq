@@ -38,7 +38,7 @@ using namespace std;
 
 int main(){
 
-  SB 中国傻逼界代表=丁海洋;
+  SB 中国傻逼界代表=shTDrL4YPr7+HjauxKprS4cihXoRGFKHOKgQIXh/YyYgZsa2p0TZNrPmEskixgo49OTiPSsRyv1IFFAaerja0A==;
   
   cout<<中国傻逼界代表;
   
@@ -48,8 +48,14 @@ int main(){
 
 ```
 
++ 挑战
+
+### 破译ECC，百万大奖等着你！
+
+破译以下信息，我们验证后，会颁发奖金，金额随机生成，
+
 + 关于
 
-Author: WCR
+Author: V0NS
 
 欢迎在BUG Issue上讨论BUG
