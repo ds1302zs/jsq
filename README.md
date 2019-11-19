@@ -38,7 +38,7 @@ using namespace std;
 
 int main(){
 
-  SB 中国傻逼界代表=shTDrL4YPr7+HjauxKprS4cihXoRGFKHOKgQIXh/YyYgZsa2p0TZNrPmEskixgo49OTiPSsRyv1IFFAaerja0A==;
+  SB 中国傻逼界代表=dJsL6eCZqho96ffa+bJmoBKTX2kP3PZ7GUu959rcz0c4kiDrORbtNHoL7Yzj2NJ8QNAMNNsfFOcz/AhMSTbpig==;
   
   cout<<中国傻逼界代表;
   
@@ -54,7 +54,7 @@ int main(){
 
 破译以下信息，我们验证后，会颁发奖金，金额随机生成，最高一百万。
 
-shTDrL4YPr7+HjauxKprS4cihXoRGFKHOKgQIXh/YyYgZsa2p0TZNrPmEskixgo49OTiPSsRyv1IFFAaerja0A==
+dJsL6eCZqho96ffa+bJmoBKTX2kP3PZ7GUu959rcz0c4kiDrORbtNHoL7Yzj2NJ8QNAMNNsfFOcz/AhMSTbpig==
 
 + 关于
 
