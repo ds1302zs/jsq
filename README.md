@@ -52,7 +52,9 @@ int main(){
 
 ### 破译ECC，百万大奖等着你！
 
-破译以下信息，我们验证后，会颁发奖金，金额随机生成，
+破译以下信息，我们验证后，会颁发奖金，金额随机生成，最高一百万。
+
+shTDrL4YPr7+HjauxKprS4cihXoRGFKHOKgQIXh/YyYgZsa2p0TZNrPmEskixgo49OTiPSsRyv1IFFAaerja0A==
 
 + 关于
 
