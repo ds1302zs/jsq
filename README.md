@@ -38,7 +38,7 @@ using namespace std;
 
 int main(){
 
-  SB 中国傻逼界代表=dJsL6eCZqho96ffa+bJmoBKTX2kP3PZ7GUu959rcz0c4kiDrORbtNHoL7Yzj2NJ8QNAMNNsfFOcz/AhMSTbpig==;
+  SB 中国傻逼界代表=S+GejqKk6fXBBG4XeiQv5cYkFUkRYs1bmYdxLBU5vmrzyQJL2zmf6HnNFTF+LH70sSwPJysBnixGfqZm9E/Nl1is7TVJXwKxsYwbrTejtI5HzTQFqHd2skeLxGZ+GpRA+b4FoHJ6cqchlVgF54tWpL0r6h44x9kZQwVz+b23vFlh+OLDYJTA5FPfSGmULt3IjehjhxRHPZ1DuK8kjlxo6mxoLD0Qmhqwp+vbnD/CevnwNtEC0GO85NVFN5Y5Ywj1u8pt4E5unPqCfNwQ8/l5cqA3hJFEYn3Yhz6fhUrJIac7+bG644EEwXazKudj6jw90UhY4noA6VgGyMXLhYh6vA==;//这个也是#破译RSA2和AES（CBC），百万大奖等着你！#的一部分。
   
   cout<<中国傻逼界代表;
   
