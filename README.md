@@ -38,7 +38,7 @@ using namespace std;
 
 int main(){
 
-  SB 中国傻逼界代表=S+GejqKk6fXBBG4XeiQv5cYkFUkRYs1bmYdxLBU5vmrzyQJL2zmf6HnNFTF+LH70sSwPJysBnixGfqZm9E/Nl1is7TVJXwKxsYwbrTejtI5HzTQFqHd2skeLxGZ+GpRA+b4FoHJ6cqchlVgF54tWpL0r6h44x9kZQwVz+b23vFlh+OLDYJTA5FPfSGmULt3IjehjhxRHPZ1DuK8kjlxo6mxoLD0Qmhqwp+vbnD/CevnwNtEC0GO85NVFN5Y5Ywj1u8pt4E5unPqCfNwQ8/l5cqA3hJFEYn3Yhz6fhUrJIac7+bG644EEwXazKudj6jw90UhY4noA6VgGyMXLhYh6vA==;//这个也是#破译RSA2和AES（CBC），百万大奖等着你！#的一部分。（同一个公钥）
+  SB 中国傻逼界代表=BLenEPzk0T2TyGRTSO1xYvRiWf26ltSgkn1Bx6BPkXVoqJlFNuLgGPxsktgeiscqPPjvEWW9XDv9lCtxxA7F45LE3SW8Xfoz27qbOYkc2QgPSig5YCs13w9Mw/KrSo3MBr1mCRO82siKAkpi8Mr5jRbC9nUwbzC+fSZ8K7cEB3kYHY/Xr2YtIzVCiZ4pYQ4xQ0cOqnvF5W28kFjMgdBkMFSGa2N7rwAXSYFqQyiw8F4gfeQpoiHcXxUGFiYGMTAN/vKp/pOQAy8BNpe0KRzl3qkjjaLdF471NP6eYtqpMDVb7J72AowIkzjXo5vmc68W5BBkYbJbDZJu9dP9incsgA==;//这个也是#破译RSA2和AES（CBC），百万大奖等着你！#的一部分。（同一个公钥）
   
   cout<<中国傻逼界代表;
   
