@@ -8,6 +8,18 @@
 
 > /
 
+> bin
+
+> > jsq0.8.exe
+
+> > jsq1.1.exe
+
+> > jsq2.1exe
+
+> > jsqkx1.1.exe
+
+> > jsqkx2.1.exe
+
 > LICENSE
 
 > 996ICU_LICENSE
@@ -24,10 +36,6 @@
 
 > > > jsqkx.cpp
 
-> > jsq.exe
-
-> > jsqkx.exe
-
 > jsqv2.1
 
 > > src
@@ -35,10 +43,6 @@
 > > > jsq.cpp
 
 > > > jsqkx.cpp
-
-> > jsq.exe
-
-> > jsqkx.exe
 
 
 + 关于
