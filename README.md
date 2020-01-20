@@ -14,7 +14,7 @@
 
 > > jsq1.1.exe
 
-> > jsq2.1exe
+> > jsq2.1.exe
 
 > > jsqkx1.1.exe
 
