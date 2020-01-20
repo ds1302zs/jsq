@@ -35,7 +35,7 @@ int main() {
 	cout<<"                     15：关于                        \n";
 	cout<<"//@@*************************************************@@\\\\\n";
 	cout<<"Hi！我是WCR，1.1版来了！"<<endl;
-	cout<<"https://github.com/ds1302zs/jsqv0.8/"<<endl;
+	cout<<"https://github.com/ds1302zs/jsq/"<<endl;
 	cout<<"请输入编号："<<endl;
 	while(cin>>flag) {
 		if (flag=="0") {

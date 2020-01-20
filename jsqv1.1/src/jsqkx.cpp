@@ -42,7 +42,7 @@ int main() {
 	cout<<"                     22：关于                            \n";
 	cout<<"//@@*************************************************@@\\\n";
 	cout<<"Hi！我是WCR，1.1版来了！"<<endl;
-	cout<<"https://github.com/ds1302zs/jsqv1.1/"<<endl;
+	cout<<"https://github.com/ds1302zs/jsq/"<<endl;
 	cout<<"请输入编号："<<endl;
 	while(cin>>flag) {
 		if (flag=="0") {
