@@ -20,6 +20,8 @@
 
 > > jsqkx2.1.exe
 
+> > jsqjinian.exe
+
 > LICENSE
 
 > 996ICU_LICENSE
@@ -44,6 +46,11 @@
 
 > > > jsqkx.cpp
 
+> jsqjinian
+
+> > src
+
+> > > jsqjinian.cpp
 
 + 关于
 
